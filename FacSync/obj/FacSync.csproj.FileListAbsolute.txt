@@ -1,0 +1,6 @@
+C:\0_VSProjects\FacSync\FacSync\bin\Debug\FacSync.exe
+C:\0_VSProjects\FacSync\FacSync\bin\Debug\FacSync.pdb
+C:\0_VSProjects\FacSync\FacSync\obj\Debug\ResolveAssemblyReference.cache
+C:\0_VSProjects\FacSync\FacSync\obj\Debug\FacSync.exe
+C:\0_VSProjects\FacSync\FacSync\obj\Debug\FacSync.pdb
+C:\0_VSProjects\FacSync\FacSync\bin\Debug\FacSync.exe.config
